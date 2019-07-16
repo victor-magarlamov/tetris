@@ -8,6 +8,7 @@
     "@types/node": "^12.0.12",
     "@types/react": "^16.8.23",
     "@types/react-dom": "^16.8.4",
+    "lodash": "^4.17.14",
     "mobx": "^5.9.4",
     "mobx-react": "^5.4.4",
     "react": "^16.8.6",
