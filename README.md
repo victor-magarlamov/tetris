@@ -1,4 +1,4 @@
 ## Tetris
 with React and MobX
 
-[demo](http://tetris.magarlamov.lclients.ru/)
+[demo](https://victor-magarlamov.github.io/tetris/index.html)
