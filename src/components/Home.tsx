@@ -7,10 +7,10 @@ import { GameState } from '../types/enums';
 class Home extends Component<{}> {
   store = new Store();
 
-  messages = {
+  messages: {[key: string]: string} = {
     [GameState.Stop]: 'Press Enter to start the game',
     [GameState.Finish]: 'Game over'
-  } as {[key: string]: string};
+  };
 
   render () {
     return (
